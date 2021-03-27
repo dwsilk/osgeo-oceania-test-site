@@ -10,7 +10,7 @@ categories:
 tags:
   - src/data/tags/stackbit.yaml
   - src/data/tags/jamstack.yaml
-excerpt: We're sponsoring Even Rouault as a GDAL maintainer - recognising the
+excerpt: We're sponsoring Even Rouault as a GDAL maintainer.
 thumb_image: images/classic/post-3.png
 thumb_image_alt: Post 3 placeholder image
 image: images/classic/post-3.png
