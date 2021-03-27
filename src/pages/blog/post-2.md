@@ -12,8 +12,8 @@ tags:
   - src/data/tags/jamstack.yaml
   - src/data/tags/netlify.yaml
 excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+  We're very pleased to announce the opening of the OSGeo Oceania Microgrants
+  program!
 thumb_image: images/classic/post-2.png
 thumb_image_alt: Post 2 placeholder image
 image: images/classic/post-2.png
