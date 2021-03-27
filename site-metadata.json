@@ -11,7 +11,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Features",
+                "label": "Featu",
                 "url": "/features",
                 "style": "link"
             },
