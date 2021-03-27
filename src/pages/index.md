@@ -277,7 +277,7 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
-      - title: Edoardo Neerhut
+      - title: Carrol Chan
         subtitle: Chair
         title_align: center
         image: images/BOgxQmSF_400x400.jpg
