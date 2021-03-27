@@ -265,7 +265,7 @@ sections:
       - title: Dionne Hansen
         subtitle: Deputy Chair
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/dh.jpg
         image_position: top
       - title: Alex Leith
         subtitle: Treasurer
