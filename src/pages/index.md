@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: OSGeo Oceania
     subtitle: OSGeo Local Chapter / OSMF Local Chapter
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      We support and grow the open geospatial community in Oceania.
     actions:
       - label: Try Free
         url: /pricing
