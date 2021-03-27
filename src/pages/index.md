@@ -275,7 +275,7 @@ sections:
       - title: Jonah Sullivan
         subtitle: Secretary
         title_align: center
-        image: images/hilary-ouse.jpg
+        image: images/hugh-saturation.jpg
         image_position: top
     grid_cols: four
     align: center
