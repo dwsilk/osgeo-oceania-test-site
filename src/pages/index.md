@@ -297,7 +297,7 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
-      - title: Greg 
+      - title: Greg Lauer
         subtitle: Secretary
         title_align: center
         image: images/hugh-saturation.jpg
