@@ -177,7 +177,7 @@ sections:
         image: images/hugh-saturation.jpg
         image_position: top
       - title: Carrol Chan
-        subtitle: Chair
+        subtitle: Director
         title_align: center
         image: images/ZaFZzBQK_400x400.jpg
         image_position: top
