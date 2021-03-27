@@ -258,7 +258,7 @@ sections:
         style: primary
     grid_items:
       - title: Edoardo Neerhut
-        subtitle: Co-Founder & CEO
+        subtitle: Chair
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
