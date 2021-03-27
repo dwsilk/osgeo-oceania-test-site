@@ -1,8 +1,7 @@
 ---
 title: Perth QGIS Meetup Report
 subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+  a brief report on the Perth QGIS meetup hosted by Geogeeks Perth [1] last night at Spacecubed in the Perth CBD, and sponsored by the OSGeo Oceania Microgrants program.
 date: '2020-06-02'
 author: src/data/team/gustav-purpleson.yaml
 categories:
