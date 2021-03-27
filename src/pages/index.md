@@ -260,7 +260,7 @@ sections:
       - title: Edoardo Neerhut
         subtitle: Chair
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: images/BOgxQmSF_400x400.jpg
         image_position: top
       - title: Dianne Ameter
         subtitle: Software Engineer
