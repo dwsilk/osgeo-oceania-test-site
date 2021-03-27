@@ -282,7 +282,7 @@ sections:
         title_align: center
         image: images/BOgxQmSF_400x400.jpg
         image_position: top
-      - title: Dionne Hansen
+      - title: Elisa Puccioni
         subtitle: Deputy Chair
         title_align: center
         image: images/hr_dionne-hansen_20160429 (2).jpg
