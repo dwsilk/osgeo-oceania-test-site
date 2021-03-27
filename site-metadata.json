@@ -42,7 +42,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Events",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
