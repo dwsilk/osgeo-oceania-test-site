@@ -39,8 +39,8 @@ sections:
         media_width: fifty
       - title: Our Community
         content: >
-          Get engaged with the geosaptial open data and open source software
-          community in Oceania.
+          Get engaged with the geospatial open data and open source software
+          community in Oceania...
         actions:
           - label: Learn More
             url: /style-guide
