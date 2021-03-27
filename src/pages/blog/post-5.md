@@ -10,10 +10,7 @@ categories:
 tags:
   - src/data/tags/stackbit.yaml
   - src/data/tags/netlify.yaml
-excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+excerpt: A brief report on the
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
