@@ -273,7 +273,7 @@ sections:
         image: images/hugh-saturation.jpg
         image_position: top
       - title: Jonah Sullivan
-        subtitle: Operations Manager
+        subtitle: Secretary
         title_align: center
         image: images/hilary-ouse.jpg
         image_position: top
