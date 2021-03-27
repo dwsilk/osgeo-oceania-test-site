@@ -290,7 +290,7 @@ sections:
       - title: Emma Hain
         subtitle: Treasurer
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/dianne-ameter.jpg
         image_position: top
       - title: Ewen Hill
         subtitle: Secretary
