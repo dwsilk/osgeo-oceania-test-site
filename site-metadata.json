@@ -156,5 +156,6 @@
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "title": "Stackbit DIY Theme"
+    "title": "Stackbit DIY Theme",
+    "domain": "https://topo-jam-ec90d.netlify.app"
 }
