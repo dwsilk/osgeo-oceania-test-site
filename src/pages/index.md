@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: OSGeo Oceania
-    subtitle: OSGeo Local Chapter / OSMF Local Chapter
     content: >
       We support and grow the open geospatial community in Oceania, including
       stewardship and oversight of the FOSS4G SotM Oceania conference series.
