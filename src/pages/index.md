@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: OSGeo Oceania
-    subtitle: Optional hero section subtitle
+    subtitle: OSGeo Local Chapter / OSMF Local Chapter
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
