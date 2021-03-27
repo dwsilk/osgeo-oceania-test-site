@@ -1,5 +1,5 @@
 ---
-title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+title: OSGeo Oceania objectives for 2021
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
