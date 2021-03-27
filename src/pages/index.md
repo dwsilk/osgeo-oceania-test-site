@@ -292,7 +292,7 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
-      - title: Jonah Sullivan
+      - title: Ewen Hill
         subtitle: Secretary
         title_align: center
         image: images/hugh-saturation.jpg
