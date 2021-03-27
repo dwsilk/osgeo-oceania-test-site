@@ -38,10 +38,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Our Community
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Get engaged with the geosaptial open data and open source software
+          community in Oceania.
         actions:
           - label: Learn More
             url: /style-guide
