@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Sponsors
+    title: Who's Using Building Outlines?
     subtitle: Grid Section Example
     align: center
     grid_items:
