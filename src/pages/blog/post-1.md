@@ -8,9 +8,7 @@ author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/general.yaml
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+excerpt: To ensure we remain focused as a community and
 thumb_image: images/classic/post-1.png
 thumb_image_alt: Post 1 placeholder image
 image: images/classic/post-1.png
