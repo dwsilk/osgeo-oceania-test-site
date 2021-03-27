@@ -1,5 +1,5 @@
 ---
-title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+title: Sponsoring GDAL maintenance
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
