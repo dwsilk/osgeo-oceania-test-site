@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Latest News
-    subtitle: The optional subtitle
+    subtitle: From the OSGeo Oceania team
     align: center
     padding_top: medium
     padding_bottom: none
