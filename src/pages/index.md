@@ -192,7 +192,7 @@ sections:
         image: images/dianne-ameter.jpg
         image_position: top
       - title: Ewen Hill
-        subtitle: Secretary
+        subtitle: Director
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
