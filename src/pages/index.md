@@ -287,7 +287,7 @@ sections:
         title_align: center
         image: images/hr_dionne-hansen_20160429 (2).jpg
         image_position: top
-      - title: Alex Leith
+      - title: Emma Hain
         subtitle: Treasurer
         title_align: center
         image: images/hugh-saturation.jpg
