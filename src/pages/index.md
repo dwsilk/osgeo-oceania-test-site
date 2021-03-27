@@ -297,7 +297,7 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
-      - title: Ewen Hill
+      - title: Greg 
         subtitle: Secretary
         title_align: center
         image: images/hugh-saturation.jpg
