@@ -252,10 +252,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Board of Directors
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
+    actions: []
     grid_items:
       - title: Edoardo Neerhut
         subtitle: Chair
