@@ -187,7 +187,7 @@ sections:
         image: images/dianne-ameter.jpg
         image_position: top
       - title: Emma Hain
-        subtitle: Treasurer
+        subtitle: Director
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
