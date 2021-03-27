@@ -1,5 +1,5 @@
 ---
-title: Announcing our Microgrants
+title: Announcing our Microgrants program
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
