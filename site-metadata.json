@@ -16,11 +16,6 @@
                 "style": "link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
