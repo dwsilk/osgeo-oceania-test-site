@@ -55,7 +55,6 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    subtitle: Features Section Example
     features:
       - title: Keeping Connected
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
