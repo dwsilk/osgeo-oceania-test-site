@@ -228,7 +228,7 @@ sections:
       - image: images/Geoplex.jpg
         image_alt: Sanity logo
         image_align: center
-      - image: images/linz.jpg
+      - image: images/modern-cabbage.png
         image_alt: DatoCMS logo
         image_align: center
       - image: images/mapillary_logo_dark@2x.png
