@@ -285,7 +285,7 @@ sections:
       - title: Elisa Puccioni
         subtitle: Deputy Chair
         title_align: center
-        image: images/hr_dionne-hansen_20160429 (2).jpg
+        image: images/dianne-ameter.jpg
         image_position: top
       - title: Emma Hain
         subtitle: Treasurer
