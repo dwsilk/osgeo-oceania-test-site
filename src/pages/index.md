@@ -148,10 +148,8 @@ sections:
     background_color: none
   - type: cta_section
     title: Become a Member!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      Membership is free, and you can apply for membership at any time.
     actions:
       - label: Sign Up
         url: /features
