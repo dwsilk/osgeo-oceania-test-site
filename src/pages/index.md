@@ -21,7 +21,7 @@ sections:
   - type: features_section
     features:
       - title: Our Initiatives
-        subtitle: Something something...
+        subtitle: Take a look at this!
         content: |
           Travel Grant Program, Microgrants, Sponsorship etc...
         actions:
