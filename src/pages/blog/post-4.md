@@ -1,5 +1,5 @@
 ---
-title: Announcing our Microgrants program
+title: Seeking final feedback on the OpenStreetMap SIG charter
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
