@@ -1,5 +1,5 @@
 ---
-title: We're Sponsoring GDAL Maintenance
+title: Perth QGIS Meetup Report
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
