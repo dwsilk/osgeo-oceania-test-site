@@ -237,7 +237,7 @@ sections:
       - image: images/AddressFinder-Logo-red-square (1).png
         image_alt: Gridsome logo
         image_align: center
-      - image: images/logo-8.svg
+      - image: images/terria-d61-csiro@2x.png
         image_alt: Git logo
         image_align: center
     grid_cols: four
