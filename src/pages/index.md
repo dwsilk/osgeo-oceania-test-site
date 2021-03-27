@@ -259,7 +259,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Team Section
+    title: Board of Directors
     subtitle: Grid Section Example
     actions:
       - label: Join the team
