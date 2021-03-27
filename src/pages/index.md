@@ -268,7 +268,7 @@ sections:
         image: images/dianne-ameter.jpg
         image_position: top
       - title: Alex Leith
-        subtitle: Developer Advocate
+        subtitle: Treasurer
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
