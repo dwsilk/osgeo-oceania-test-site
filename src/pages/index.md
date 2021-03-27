@@ -263,7 +263,7 @@ sections:
         image: images/BOgxQmSF_400x400.jpg
         image_position: top
       - title: Dionne Hansen
-        subtitle: Software Engineer
+        subtitle: Deputy Chair
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
