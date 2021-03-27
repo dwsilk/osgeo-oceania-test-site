@@ -260,7 +260,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: Board of Directors
-    subtitle: Grid Section Example
     actions:
       - label: Join the team
         url: /style-guide
