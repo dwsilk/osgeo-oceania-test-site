@@ -8,8 +8,7 @@ sections:
       We support and grow the open geospatial community in Oceania, including
       stewardship and oversight of the FOSS4G SotM Oceania conference series.
     actions:
-      - label: Try Free
-        url: /pricing
+      - url: /pricing
         style: primary
       - label: Learn More
         url: /features
