@@ -8,7 +8,9 @@ author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/general.yaml
-excerpt: To ensure we remain focused as a community and
+excerpt: >-
+  To ensure we remain focused as a community and able to provide value to the
+  community, we've set our objectives for 2021.
 thumb_image: images/classic/post-1.png
 thumb_image_alt: Post 1 placeholder image
 image: images/classic/post-1.png
