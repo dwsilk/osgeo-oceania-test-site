@@ -1,7 +1,9 @@
 ---
 title: Perth QGIS Meetup Report
 subtitle: >-
-  A brief report on the Perth QGIS meetup hosted by Geogeeks Perth last night at Spacecubed in the Perth CBD, and sponsored by the OSGeo Oceania Microgrants program.
+  A brief report on the Perth QGIS meetup hosted by Geogeeks Perth last night at
+  Spacecubed in the Perth CBD, and sponsored by the OSGeo Oceania Microgrants
+  program.
 date: '2020-06-02'
 author: src/data/team/gustav-purpleson.yaml
 categories:
@@ -9,7 +11,7 @@ categories:
 tags:
   - src/data/tags/stackbit.yaml
   - src/data/tags/netlify.yaml
-excerpt: A brief report on the
+excerpt: A brief report on the Perth QGIS meetup
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
