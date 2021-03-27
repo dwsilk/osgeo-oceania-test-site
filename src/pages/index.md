@@ -280,7 +280,7 @@ sections:
       - title: Carrol Chan
         subtitle: Chair
         title_align: center
-        image: images/BOgxQmSF_400x400.jpg
+        image: images/ZaFZzBQK_400x400.jpg
         image_position: top
       - title: Elisa Puccioni
         subtitle: Deputy Chair
