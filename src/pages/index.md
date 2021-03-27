@@ -262,7 +262,7 @@ sections:
         title_align: center
         image: images/BOgxQmSF_400x400.jpg
         image_position: top
-      - title: Dianne Ameter
+      - title: Dionne Hansen
         subtitle: Software Engineer
         title_align: center
         image: images/dianne-ameter.jpg
