@@ -197,7 +197,7 @@ sections:
         image: images/hugh-saturation.jpg
         image_position: top
       - title: Greg Lauer
-        subtitle: Secretary
+        subtitle: Director
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
