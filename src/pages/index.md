@@ -216,7 +216,7 @@ sections:
     title: Our Sponsors
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/bing_logo.png
         image_alt: Contentful logo
         image_align: center
       - image: images/logo-2.svg
