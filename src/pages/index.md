@@ -222,7 +222,7 @@ sections:
       - image: images/Koordinates_website_400px_wide.jpg
         image_alt: Netlify logo
         image_align: center
-      - image: images/csiro-data61.png
+      - image: images/mapbox-logo-color.png
         image_alt: Gatsby logo
         image_align: center
       - image: images/Geoplex.jpg
