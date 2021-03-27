@@ -277,6 +277,26 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
+          - title: Edoardo Neerhut
+        subtitle: Chair
+        title_align: center
+        image: images/BOgxQmSF_400x400.jpg
+        image_position: top
+      - title: Dionne Hansen
+        subtitle: Deputy Chair
+        title_align: center
+        image: images/hr_dionne-hansen_20160429 (2).jpg
+        image_position: top
+      - title: Alex Leith
+        subtitle: Treasurer
+        title_align: center
+        image: images/hugh-saturation.jpg
+        image_position: top
+      - title: Jonah Sullivan
+        subtitle: Secretary
+        title_align: center
+        image: images/hugh-saturation.jpg
+        image_position: top
     grid_cols: four
     align: center
     background_color: secondary
