@@ -182,7 +182,7 @@ sections:
         image: images/ZaFZzBQK_400x400.jpg
         image_position: top
       - title: Elisa Puccioni
-        subtitle: Deputy Chair
+        subtitle: Director
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
