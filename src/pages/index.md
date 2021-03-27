@@ -69,10 +69,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    features: []
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
     title: Important Dates
     grid_items:
