@@ -55,7 +55,6 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Recent Events
     subtitle: Features Section Example
     features:
       - title: Keeping Connected
