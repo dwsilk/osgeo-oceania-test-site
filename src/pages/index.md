@@ -211,7 +211,7 @@ sections:
       - image: images/bing.png
         image_alt: Contentful logo
         image_align: center
-      - image: images/Koordinates_website_400px_wide.jpg
+      - image: images/koordinates.png
         image_alt: Netlify logo
         image_align: center
       - image: images/mapbox-logo-color.png
