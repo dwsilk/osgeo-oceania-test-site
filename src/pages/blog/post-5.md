@@ -5,7 +5,7 @@ subtitle: >-
   Spacecubed in the Perth CBD, and sponsored by the OSGeo Oceania Microgrants
   program.
 date: '2020-06-02'
-author: src/data/team/gustav-purpleson.yaml
+author: src/data/team/john-bryant.yaml
 categories:
   - src/data/categories/tutorials.yaml
 tags:
