@@ -224,7 +224,7 @@ sections:
         image_alt: DatoCMS logo
         image_align: center
       - image: images/mapillary_logo_dark@2x.png
-        image_alt: Next.js logo
+        image_alt: Mapillary logo
         image_align: center
       - image: images/address_finder.png
         image_alt: AddressFinder logo
