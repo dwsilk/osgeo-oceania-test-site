@@ -16,7 +16,7 @@ excerpt: >-
   by the OSGeo Oceania Microgrants program.
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
-image: images/icebreaker1.jpg
+image: images/20210325_184725.jpg
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
