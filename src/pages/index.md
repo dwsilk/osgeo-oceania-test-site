@@ -201,7 +201,7 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
-    grid_cols: five
+    grid_cols: two
     align: center
     background_color: secondary
   - type: grid_section
