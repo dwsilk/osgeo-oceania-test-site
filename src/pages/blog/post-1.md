@@ -8,6 +8,9 @@ author: src/data/team/edoardo-neerhut.yaml
 categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/general.yaml
+tags:
+  - src/data/tags/jamstack.yaml
+  - src/data/tags/microgrants.yaml
 excerpt: >-
   To ensure we remain focused as a community and able to provide value to the
   community, we've set our objectives for 2021.
