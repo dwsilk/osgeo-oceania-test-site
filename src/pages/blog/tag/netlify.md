@@ -2,7 +2,7 @@
 title: Netlify
 sections:
   - type: hero_section
-    title: Netlify
+    title: Microgrants
     subtitle: The optional subtitle
     align: center
     padding_top: medium
