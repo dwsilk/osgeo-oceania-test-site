@@ -227,10 +227,10 @@ sections:
         image_alt: Next.js logo
         image_align: center
       - image: images/address_finder.png
-        image_alt: Gridsome logo
+        image_alt: AddressFinder logo
         image_align: center
       - image: images/terria.png
-        image_alt: Git logo
+        image_alt: Terria logo
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium
