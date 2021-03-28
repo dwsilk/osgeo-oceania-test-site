@@ -13,7 +13,7 @@ tags:
 excerpt: >-
   A brief report on the Perth QGIS meetup hosted by Geogeeks Perth and sponsored
   by the OSGeo Oceania Microgrants program.
-thumb_image: images/classic/post-5.png
+thumb_image: images/20210325_184725.jpg
 thumb_image_alt: Post 5 placeholder image
 image: images/20210325_184725.jpg
 image_alt: Post 5 placeholder image
