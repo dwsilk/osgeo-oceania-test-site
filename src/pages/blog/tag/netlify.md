@@ -1,5 +1,5 @@
 ---
-title: Netlify
+title: Microgrants
 sections:
   - type: hero_section
     title: Microgrants
@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    tag: src/data/tags/netlify.yaml
+    tag: src/data/tags/Microgrants.yaml
     show_date: true
     show_categories: true
     show_author: true
@@ -42,14 +42,14 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts in Netlify
+  title: Posts in Microgrants
   description: This is the author archive page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Netlify
+      value: Posts in Microgrants
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
@@ -61,7 +61,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in Netlify
+      value: Posts in Microgrants
     - name: 'twitter:description'
       value: This is the author archive page
     - name: 'twitter:image'
