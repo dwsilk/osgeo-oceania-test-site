@@ -229,7 +229,7 @@ sections:
       - image: images/address_finder.png
         image_alt: Gridsome logo
         image_align: center
-      - image: images/terria-d61-csiro@2x.png
+      - image: images/terria.png
         image_alt: Git logo
         image_align: center
     grid_cols: four
