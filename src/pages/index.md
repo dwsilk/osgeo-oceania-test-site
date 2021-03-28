@@ -31,7 +31,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
+        image: images/missingmapsworkshop (2).jpg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
