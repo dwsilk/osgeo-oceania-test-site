@@ -232,7 +232,7 @@ sections:
       - image: images/terria.png
         image_alt: Git logo
         image_align: center
-    grid_cols: four
+    grid_cols: five
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: blog_feed_section
