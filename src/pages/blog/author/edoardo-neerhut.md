@@ -1,8 +1,8 @@
 ---
-title: Gustav Purpleson
+title: Edoardo Neerhut
 sections:
   - type: hero_section
-    title: Gustav Purpleson
+    title: Edoardo Neerhut
     subtitle: The optional subtitle
     align: center
     padding_top: medium
@@ -42,14 +42,14 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts by Gustav Purpleson
+  title: Posts by Edoardo Neerhut
   description: This is the author archive page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts by Gustav Purpleson
+      value: Posts by Edoardo Neerhut
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
@@ -61,7 +61,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts by Gustav Purpleson
+      value: Posts by Edoardo Neerhut
     - name: 'twitter:description'
       value: This is the author archive page
     - name: 'twitter:image'
