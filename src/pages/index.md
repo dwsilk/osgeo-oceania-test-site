@@ -257,7 +257,7 @@ sections:
     background_color: secondary
 seo:
   title: OSGeo Oceania
-  description: The preview of the DIY theme
+  description: Home of OSGeo Oceania
   extra:
     - name: 'og:type'
       value: website
