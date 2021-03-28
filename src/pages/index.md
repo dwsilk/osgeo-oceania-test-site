@@ -257,7 +257,9 @@ sections:
     background_color: secondary
 seo:
   title: OSGeo Oceania
-  description: Home of OSGeo Oceania
+  description: >-
+    Supporting and growing the open geospatial community in Oceania, including
+    stewardship and oversight of the FOSS4G SotM Oceania conference series.
   extra:
     - name: 'og:type'
       value: website
