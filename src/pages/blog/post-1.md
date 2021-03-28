@@ -9,7 +9,6 @@ categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/general.yaml
 tags:
-  - src/data/tags/jamstack.yaml
   - src/data/tags/microgrants.yaml
 excerpt: >-
   To ensure we remain focused as a community and able to provide value to the
