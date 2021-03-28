@@ -10,7 +10,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/0E0A3449.jpg
+    image: images/APC_0034.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
