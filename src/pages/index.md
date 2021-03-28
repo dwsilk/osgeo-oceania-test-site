@@ -256,7 +256,7 @@ sections:
     has_border: false
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
+  title: OSGeo Oceania
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
