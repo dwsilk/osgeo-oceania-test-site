@@ -214,7 +214,7 @@ sections:
       - image: images/koordinates.png
         image_alt: Koordinates logo
         image_align: center
-      - image: images/mapbox-logo-color.png
+      - image: images/mapbox.png
         image_alt: Mapbox logo
         image_align: center
       - image: images/geoplex.png
