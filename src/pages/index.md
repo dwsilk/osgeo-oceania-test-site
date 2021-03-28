@@ -217,7 +217,7 @@ sections:
       - image: images/mapbox-logo-color.png
         image_alt: Gatsby logo
         image_align: center
-      - image: images/Geoplex.jpg
+      - image: images/geoplex.png
         image_alt: Sanity logo
         image_align: center
       - image: images/modern-cabbage.png
