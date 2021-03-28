@@ -212,7 +212,7 @@ sections:
         image_alt: Bing logo
         image_align: center
       - image: images/koordinates.png
-        image_alt: Netlify logo
+        image_alt: Koordinates logo
         image_align: center
       - image: images/mapbox-logo-color.png
         image_alt: Gatsby logo
