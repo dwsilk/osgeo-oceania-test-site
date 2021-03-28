@@ -9,7 +9,7 @@ author: src/data/team/gustav-purpleson.yaml
 categories:
   - src/data/categories/tutorials.yaml
 tags:
-  - src/data/tags/microgrants.yaml
+  - src/data/tags/netlify.yaml
 excerpt: >-
   A brief report on the Perth QGIS meetup hosted by Geogeeks Perth and sponsored
   by the OSGeo Oceania Microgrants program.
