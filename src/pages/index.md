@@ -215,7 +215,7 @@ sections:
         image_alt: Koordinates logo
         image_align: center
       - image: images/mapbox-logo-color.png
-        image_alt: Gatsby logo
+        image_alt: Mapbox logo
         image_align: center
       - image: images/geoplex.png
         image_alt: Sanity logo
