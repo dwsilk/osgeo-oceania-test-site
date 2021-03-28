@@ -10,7 +10,7 @@ categories:
   - src/data/categories/general.yaml
 tags:
   - src/data/tags/jamstack.yaml
-  - src/data/tags/netlify.yaml
+  - src/data/tags/microgrants.yaml
 excerpt: >-
   We're very pleased to announce the opening of the OSGeo Oceania Microgrants
   program!
