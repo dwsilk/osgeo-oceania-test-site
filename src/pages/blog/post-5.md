@@ -51,12 +51,10 @@ We had 55 registrations, and approximately 30 people turned up, probably a reaso
 We ran 4 short community presentations:
 
 *   Grant Boxer: Changing the GIS Paradigm for WA Geologists
-
 *   Esther Harris: QGIS Training from Geos to NGOs
-
 *   Piers Higgs: Around the world with QGIS in 10 minutes
-
 *   Stafford Smith: When you can't buy the tool, make it yourself - Basic plugin development with QGIS
 
 We had pizza & refreshments and a bit of socialising after the presentations, which had a really nice casual community vibe.
+
 After the presentations, several people said they'd be interested in giving a presentation at another similar event, and a couple of people said they'd like to help organise, which makes it a big success in my mind.
