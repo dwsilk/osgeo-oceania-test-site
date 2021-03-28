@@ -220,7 +220,7 @@ sections:
       - image: images/geoplex.png
         image_alt: Geoplex logo
         image_align: center
-      - image: images/modern-cabbage.png
+      - image: images/linz.png
         image_alt: DatoCMS logo
         image_align: center
       - image: images/mapillary.png
