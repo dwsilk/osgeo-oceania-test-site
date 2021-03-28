@@ -209,7 +209,7 @@ sections:
     align: center
     grid_items:
       - image: images/bing.png
-        image_alt: Contentful logo
+        image_alt: Bing logo
         image_align: center
       - image: images/koordinates.png
         image_alt: Netlify logo
