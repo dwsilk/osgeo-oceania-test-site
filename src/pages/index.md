@@ -218,7 +218,7 @@ sections:
         image_alt: Mapbox logo
         image_align: center
       - image: images/geoplex.png
-        image_alt: Sanity logo
+        image_alt: Geoplex logo
         image_align: center
       - image: images/modern-cabbage.png
         image_alt: DatoCMS logo
