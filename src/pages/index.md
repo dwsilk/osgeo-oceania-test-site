@@ -223,7 +223,7 @@ sections:
       - image: images/modern-cabbage.png
         image_alt: DatoCMS logo
         image_align: center
-      - image: images/mapillary_logo_dark@2x.png
+      - image: images/mapillary.png
         image_alt: Mapillary logo
         image_align: center
       - image: images/address_finder.png
